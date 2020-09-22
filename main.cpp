@@ -17,11 +17,11 @@ int main(){
     cin>> B;
 
     if(A > B){
-        cout << "El mayor es " << A<< endl;
+        cout << "El mayor es " << A << endl;
     }
 
     else{
-        cout << "El mayor es " << B<< endl;
+        cout << "El mayor es " << B << endl;
     }
 
 return 0;
